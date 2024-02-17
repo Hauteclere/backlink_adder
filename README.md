@@ -8,8 +8,10 @@ For example, to add backlinks to the example docs in this repo you can run `pyth
 Refresh the backlinks any time by running the script again. Ensure that no content exists below the 
 
 ```md
-\n\n---\n\n
-## Backlinks:\n
+
+---
+
+## Backlinks:
 ```
 
 section, since the documents will be truncated when the script is run.
